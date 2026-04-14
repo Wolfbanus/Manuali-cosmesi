@@ -4,7 +4,7 @@
 \usepackage[T1]{fontenc}
 \usepackage{graphicx}
 \usepackage[export]{adjustbox}
-\graphicspath{ {./images/} }
+\graphicspath{ {./images/}{../cose da aggiungere/pittogrammi/}}
 \usepackage{amsmath}
 \usepackage{amsfonts}
 \usepackage{amssymb}
@@ -12,9 +12,11 @@
 \usepackage{stmaryrd}
 
 \usepackage{float}
+\usepackage{tikz}
+\usepackage{geometry}
 
 \usepackage{titling}
-\pretitle{\begin{center}\includegraphics[width=\textwidth]{/home/keyser/Coding/cosmesi_ale/cose da aggiungere/header_WATT+}\\[6em]}
+\pretitle{\begin{center}\includegraphics[width=\textwidth]{../cose da aggiungere/header_WATT+}\\[6em]}
 	\posttitle{\end{center}}  
 
 %\DeclareUnicodeCharacter{2713}{\ifmmode\checkmark\else{$\checkmark$}\fi}
@@ -54,6 +56,9 @@ Regolazione della produzione di sebo
 Grazie per aver scelto il nostro dispositivo di fotobiostimolazione a LED. Leggere attentamente questo manuale prima dell'uso e seguire le avvertenze per garantire un utilizzo corretto e sicuro del prodotto.
 
 Conservare questo manuale per eventuali riferimenti futuri.
+
+\section{Simboli}
+\input{../cose da aggiungere/pittogrammi/pittogrammi.tex}
 
 \section{PRINCIPIO DI FUNZIONAMENTO}
 La World Medical Association (WMA) riconosce l'efficacia di specifiche onde luminose nell'attivazione dei processi di rigenerazione cellulare e tissutale.
@@ -187,10 +192,9 @@ Porta di ricarica di tipo C
 
 \newpage
 
-\input{/home/keyser/Coding/cosmesi_ale/cose da aggiungere/privacy_conformita/privacy_conformita.tex}
+\input{../cose da aggiungere/privacy_conformita/privacy_conformita.tex}
 
-\section{Simboli}
-\input{/home/keyser/Coding/cosmesi_ale/cose da aggiungere/pittogrammi/pittogrammi.tex}
+
 
 
 \end{document}

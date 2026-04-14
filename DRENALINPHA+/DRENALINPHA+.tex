@@ -3,7 +3,7 @@
 \usepackage[utf8]{inputenc}
 \usepackage{graphicx}
 \usepackage[export]{adjustbox}
-\graphicspath{{./images/}{../../cose da aggiungere/pittogrammi}}
+\graphicspath{{./images/}{../cose da aggiungere/pittogrammi/}{../cose da aggiungere/privacy_conformita/}}
 \usepackage{amsmath}
 \usepackage{amsfonts}
 \usepackage{amssymb}
@@ -17,7 +17,8 @@
 \usepackage{array}
 \usepackage{tabularx}
 \usepackage{float}
-\usepackage{fontawesome5}   
+\usepackage{fontawesome5} 
+\usepackage{tikz}  
 
 \usepackage{newunicodechar}
 %\IfFontExistsTF{Noto Serif CJK TC}
@@ -40,7 +41,7 @@
 %\newunicodechar{□}{\ifmmode\square\else{$\square$}\fi}
 
 \usepackage{titling}
-\pretitle{\begin{center}\includegraphics[width=\textwidth]{/home/keyser/Coding/cosmesi_ale/cose da aggiungere/header_WATT+.png}\\[6em]}
+\pretitle{\begin{center}\includegraphics[width=\textwidth]{../cose da aggiungere/header_WATT+.png}\\[6em]}
 	\posttitle{\end{center}}  
 
 \title{\Huge{DRENALINPHA+}}
@@ -140,7 +141,7 @@ Simboli, segni e / o avvertenze che richiamano l'attenzione degli utenti. Alcuni
 
 \newpage
 
-\input{/home/keyser/Coding/cosmesi_ale/cose da aggiungere/pittogrammi/pittogrammi.tex}
+\input{../cose da aggiungere/pittogrammi/pittogrammi.tex}
 
 %\section{SIMBOLI}
 %\begin{center}
@@ -938,83 +939,8 @@ Verificare che le seguenti voci siano state completate.
 
 Se il problema persiste, contattare l'Assistenza clienti.
 
-%\section{CONSENSO INFORMATO PER TRATTAMENTI CON DRENALINPHA+}
-%\noindent lo sottoscritto/a nato/a\\
-%il\\
-%Residente in Via/Piazza\\
-%Cap\\
-%Città\\
-%Pr\\
-%\includegraphics[max width=\textwidth, alt={}, center]{88087b73-f534-48df-a915-fe697c64a27c-41_78_926_350_232}
-%
-%\noindent Cod. Fiscale\\
-%Tel/Cell\\
-%E-mail\\
-%Nel caso di minore:\\
-%Nome e Cognome (del minore)\\
-%Documento\\
-%numero del documento\\
-%$\square$ \textbf{Autorizzo e accetto lo svolgimento del trattamento da me richiesto al minore di cui sopra, assumendone tutte le responsabilità.}
-%
-%\subsection{DESCRIZIONE TRATTAMENTO}
-%Il metodo si basa su massaggio meccanico prodotto da apparecchiatura.\\
-%Il (apparecchiatura) è un trattamento medico ed estetico, che migliora il rendimento del sistema circolatorio e del sistema linfatico rendendoli più efficiente e migliorando di conseguenza gli inestetismi più frequenti: cellulite, adiposità localizzata, ritenzione di liquidi. La sequenza pressoria favorisce l'entrata del liquido interstiziale nei vasi linfatici e nell'albero circolatorio, attivandone stimolandone il naturale percorso. Riduce il gonfiore e l'edema. Riduce gli stati infiammatori di natura non-infettiva. Migliora l'ossigenazione cutanea. Migliora il tono e l'integrità della pelle. Riduce con buoni risultati la cellulite e ridefinisce la forma delle gambe. Riduce con buoni risultati il linfedema post-operatorio. Allevia il dolore indotto da alcuni sportivi. Riduce l'edema post-traumatico. Favorisce l'eliminazione dal corpo delle tossine e dei prodotti di scarto. Riduce lo stress e favorisce il rilassamento.
-%
-%In genere, il consiglio è suddividere le varie sedute previste in $1 / 2$ appuntamenti a settimana.\\
-%Una volta terminato il ciclo di sedute consigliato è indicato effettuare cicli di mantenimento se ritenuto necessario dall'operatore.
-%
-%\subsection{ALCUNI CONSIGLI}
-%Per mantenere più a lungo gli effetti del trattamento , si consigliano di: adottare uno stile di vita che prevenga la ritenzione idrica, evitare alcolici, non fumare, ridurre il sale nella dieta, una buona idratazione interna, regolare attività fisica e infine tenere gli arti oggetto di trattamento in scarico (quando possibile).
-%
-%\subsection{CONTROINDICAZIONI:}
-%\textbf{Controllare sempre e comunque le indicazioni riportate nel seguente manuale e personalizzare il consenso informato}
-%
-%Persone con emofilia, pacemaker, malattie cardiovascolari, allergie alla pelle, persone con febbre, Donne in gravidanza, Portatori di Handicap, minore età, epilessia, dispositivi di incontinenza, pompa insulina, insufficienza cardiaca, lesioni cutanee: erisipela, micosi, piodermiti, linfangiti, tromboflebiti, flebite, tubercolosi, insufficienza arteriosa periferica grave, plessopatia e neuropatia, gravi infezioni, tumori, ipertensione, ipotensione, asma, problemi renale, fragilità capillari, Sciatica, edema linfatico, neoplasie, arteriopatia obliterante periferica, dermoipodermiti, grave arteriosclerosi, diabete mellito con microangiopatia. \textbf{Riportare le indicazioni delle avvertenze e controindicazioni}
-%
-%\textbf{Ps. (In caso di dubbi è sempre meglio chiedere consiglio al proprio medico di base) INFORMAZIONI GENERALI}
-%
-%\vspace{10pt}
-%Ho avuto modo di discutere in maniera adeguata ed esauriente le caratteristiche del trattamento in questione con $\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_$ che mi ha esposto in termini a me pienamente comprensibili le tecniche attualmente disponibili per l'effettuazione del trattamento da me desiderato. Mi è stato inoltre adeguatamente spiegato che il beneficio atteso da tale trattamento si raggiunge con più sedute ed è soggettivo. I trattamenti vengono effettuati con cadenza settimanale personalizzata ed indicata dell'operatore. Una volta terminato il ciclo di trattamenti consigliato, è indicato proseguire se si ritiene necessario con sedute di mantenimento.\\
-%Mi è stato illustrato in modo completo che in taluni casi il risultato può essere insoddisfacente per una buona risposta individuale, indipendente dal trattamento. In questi casi non può essere richiesto rimborso. Ho avuto quindi ampia e dettagliata spiegazione sul procedimento, rischi, effetti collaterali. Sono cosciente ed accetto che se interrompo il ciclo di sedute di mia spontanea volontà, per gravidanza o per malattia non potrò richiedere il rimborso delle sedute effettuate né all'operatore né al centro estetico.\\
-%Mi è stata data ampia spiegazione dei comportamenti e precauzioni da tenere prima e dopo il trattamento.\\
-%Sono consapevole che il mancato rispetto da parte mia delle istruzioni avute e del procedimento corretto dei trattamenti potrebbe compromettere il risultato del trattamento stesso. Il mancato compimento delle sessioni sono di mia responsabilità, liberando l'operatore da qualsiasi responsabilità sul risultato.\\
-%Con questa dichiarazione, quindi, dopo aver compreso tutte le informazioni sopra elencate che mi sono state esposte esaurientemente e comprensibilmente chiedo di essere sottoposto al trattamento con la (nome apparecchiatura).\\
-%lo sottoscritto/a $\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_$ dichiaro di aver letto attentamente il foglio informativo allegato e dichiaro il mio consenso a sottopormi al trattamento .
-%
-%\vspace{10pt}
-%Data $\_\_\_\_$ / $\_\_\_\_$ / $\_\_\_\_$
-%
-%\vspace{15pt}
-%Firma del Cliente $\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_$
 
-\section{CONSENSO INFORMATO}
-\section{Trattamento estetico "Drenalinpha+"}
-\section{DATI CLIENTE}
-Nome e Cognome: $\_\_\_\_$\\
-Data di nascita: $\_\_\_\_$\\
-Telefono: $\_\_\_\_$
-
-\section{DATI OPERATORE / CENTRO}
-Nome centro: $\_\_\_\_$\\
-Operatore: $\_\_\_\_$
-
-\section{DESCRIZIONE DEL TRATTAMENTO}
-Il trattamento Drenalinpha+ è un protocollo estetico finalizzato a stimolare il sistema linfatico, favorire il drenaggio dei liquidi, migliorare la circolazione superficiale e ridurre la sensazione di gonfiore e pesantezza.
-
-\section{POSSIBILI EFFETTI}
-Lieve arrossamento temporaneo, sensazione di calore, lieve sensibilità nella zona trattata.
-
-\section{CONTROINDICAZIONI}
-Gravidanza, patologie cardiache o circolatorie importanti, infezioni o infiammazioni in atto, patologie oncologiche in corso, problematiche linfatiche gravi non diagnosticate, uso di farmaci anticoagulanti.
-
-\section{DICHIARAZIONI DEL CLIENTE}
-Dichiaro di aver ricevuto spiegazioni chiare, di essere a conoscenza che si tratta di trattamento estetico e non medico, e di autorizzare l'esecuzione del trattamento.
-
-\section{PRIVACY}
-I dati saranno trattati nel rispetto del Regolamento UE 2016/679 (GDPR).\\
-Firma Cliente: $\_\_\_\_$\\
-Firma Operatore: $\_\_\_\_$\\
-Data: $\_\_\_\_$ 1 $\_\_\_\_$ $/$ $\_\_\_\_$
+\input{../cose da aggiungere/consenso informato/consenso_informato_DRENALINPHA+.tex}
 
 \section{Allegati al manuale}
 \subsection{Scheda Tecnica}
@@ -1072,9 +998,7 @@ Attualmente il D.lgs. 206 del 15 ottobre 2015 relativo agli apparecchi elettrome
 
 \newpage
 
-\input{/home/keyser/Coding/cosmesi_ale/cose da aggiungere/privacy_conformita/privacy_conformita.tex}
-
-% non aggiungere pittogrammi
+\input{../cose da aggiungere/privacy_conformita/privacy_conformita.tex}
 
 
 \end{document}
