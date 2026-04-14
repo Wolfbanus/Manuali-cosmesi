@@ -7,9 +7,10 @@ TO DO:
 
 - [ ] ELETTROPULSE+
 	- [ ] foto prima pagina
-	- [ ] toc
+	- [x] toc
 	- [ ] tabella eccede pag.19-20
-	- [ ] togliere sezioni ripetute ELECTROPORAL
+	- [x] togliere sezioni ripetute ELECTROPORAL
+	- [ ] mettere a posto sezionamento
 	- [ ] privacy
 	- [ ] consenso informato
 	- [ ] attestato conformità
