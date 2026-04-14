@@ -3,7 +3,7 @@ TO DO:
 - [ ] DRENALINPHA+
 	- [x] simboli sicurezza
 	- [ ] foto prima pagina
-	- [ ] aggiornare consenso informato
+	- [x] aggiornare consenso informato
 
 - [ ] ELETTROPULSE+
 	- [ ] foto prima pagina
