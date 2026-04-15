@@ -2,7 +2,7 @@ TO DO:
 
 - [ ] DRENALINPHA+
 	- [x] simboli sicurezza
-	- [ ] foto prima pagina
+	- [ ] foto prima pagina (Ale)
 	- [x] aggiornare consenso informato
 
 - [ ] ELETTROPULSE+
@@ -11,20 +11,21 @@ TO DO:
 	- [ ] tabella eccede pag.19-20
 	- [x] togliere sezioni ripetute ELECTROPORAL
 	- [ ] mettere a posto sezionamento
-	- [ ] privacy
-	- [ ] consenso informato
-	- [ ] attestato conformità
-	- [ ] simboli sicurezza
+	- [x] privacy
+	- [x] consenso informato
+	- [x] attestato conformità
+	- [x] simboli sicurezza
 
 - [ ] BEAUTY BRIDGE+
-	- [ ] consenso informato
+	- [x] consenso informato
+ 	- [x] mettere elenchi puntati
 
 - [ ] RF-USION+
-	- [ ] consenso informato
+	- [x] consenso informato
 	- [x] foto prima pagina
 
 - [ ] COPERTA SAUNA INFRAROSSI
-	- [ ] consenso informato
+	- [ ] consenso informato (Ale)
 
 - [ ] EPIL FORCE+
 	- [ ] sentire ale se l'ha già fatto
@@ -32,15 +33,17 @@ TO DO:
 - [ ] HYDRA DERMO COMPLEX+
 	- [x] \begin{figure}[H]
 	- [x] consenso informato
-	- [ ] simboli
+	- [x] simboli
+ 	- [ ] privacy
 	- [ ] mettere a posto tabelle e figure
+ 	- [ ] controllare sezionamento
  
 - [ ] ROLLERSHAPE+
 	- [ ] foto prima pagina
 	- [x] consenso informato
 
 - [ ] SKIN ANALYZER+
-	- [ ] consenso informato
+	- [ ] consenso informato (Ale)
 	- [ ] da mettere a posto immagini e tabelle
 	- [ ] controllare sezionamento
 
