@@ -7,7 +7,7 @@ TO DO:
  	- [x] aggiornare dimensione conformità
 
 - [ ] ELETTROPULSE+
-	- [ ] foto prima pagina
+	- [ ] foto prima pagina (Ale)
 	- [x] toc
 	- [ ] tabella eccede pag.19-20
 	- [x] togliere sezioni ripetute ELECTROPORAL
@@ -25,7 +25,7 @@ TO DO:
 
 - [ ] RF-USION+
 	- [x] consenso informato
-	- [x] foto prima pagina
+	- [x]  pagina
  	- [x] aggiornare dimensione conformità
 
 - [ ] COPERTA SAUNA INFRAROSSI
