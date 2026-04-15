@@ -22,16 +22,19 @@ TO DO:
 	- [x] consenso informato
  	- [x] mettere elenchi puntati
   	- [x] aggiornare dimensione conformità
+  	- [ ] controllare sezionamento
 
 - [ ] RF-USION+
 	- [x] consenso informato
 	- [x]  pagina
  	- [x] aggiornare dimensione conformità
+  	- [ ] controllare sezionamento
 
 - [ ] COPERTA SAUNA INFRAROSSI
 	- [ ] consenso informato (Ale)
  	- [x] spostare sezione simboli
   	- [x] aggiornare dimensione conformità
+  	- [ ] controllare sezionamento
 
 - [ ] EPIL FORCE+
 	- [ ] sentire ale se l'ha già fatto
@@ -51,6 +54,7 @@ TO DO:
  	- [x] impostato italiano
   	- [x] spostato simboli
   	- [x] aggiornare dimensione conformità
+  	- [ ] controllare sezionamento
 
 - [ ] SKIN ANALYZER+
 	- [ ] consenso informato (Ale)
