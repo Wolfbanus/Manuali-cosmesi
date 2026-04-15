@@ -42,6 +42,8 @@ TO DO:
 - [ ] ROLLERSHAPE+
 	- [ ] foto prima pagina (Ale)
 	- [x] consenso informato
+ 	- [x] impostato italiano
+  	- [x] spostato simboli
 
 - [ ] SKIN ANALYZER+
 	- [ ] consenso informato (Ale)
