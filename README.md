@@ -9,7 +9,7 @@ TO DO:
 - [ ] ELETTROPULSE+
 	- [ ] foto prima pagina (Ale)
 	- [x] toc
-	- [ ] tabella eccede pag.19-20
+	- [x] tabelle eccedenti bordo destro
 	- [x] togliere sezioni ripetute ELECTROPORAL
 	- [ ] mettere a posto sezionamento
 	- [x] privacy
