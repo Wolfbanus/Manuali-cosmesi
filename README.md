@@ -40,7 +40,7 @@ TO DO:
  	- [ ] controllare sezionamento
  
 - [ ] ROLLERSHAPE+
-	- [ ] foto prima pagina
+	- [ ] foto prima pagina (Ale)
 	- [x] consenso informato
 
 - [ ] SKIN ANALYZER+
