@@ -5,6 +5,7 @@ TO DO:
 	- [ ] foto prima pagina (Ale)
 	- [x] aggiornare consenso informato
  	- [x] aggiornare dimensione conformità
+  	- [ ] controllare sezionamento
 
 - [ ] ELETTROPULSE+
 	- [ ] foto prima pagina (Ale)
