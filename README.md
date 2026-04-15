@@ -26,6 +26,7 @@ TO DO:
 
 - [ ] COPERTA SAUNA INFRAROSSI
 	- [ ] consenso informato (Ale)
+ 	- [x] spostare sezione simboli
 
 - [ ] EPIL FORCE+
 	- [ ] sentire ale se l'ha già fatto
@@ -34,7 +35,7 @@ TO DO:
 	- [x] \begin{figure}[H]
 	- [x] consenso informato
 	- [x] simboli
- 	- [ ] privacy
+ 	- [x] privacy
 	- [ ] mettere a posto tabelle e figure
  	- [ ] controllare sezionamento
  
@@ -44,7 +45,7 @@ TO DO:
 
 - [ ] SKIN ANALYZER+
 	- [ ] consenso informato (Ale)
-	- [ ] da mettere a posto immagini e tabelle
+	- [ ] mettere a posto immagini e tabelle
 	- [ ] controllare sezionamento
 
 - [ ] CELLUFREEZE+
