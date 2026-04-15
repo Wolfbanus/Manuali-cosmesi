@@ -4,7 +4,7 @@
 \usepackage[T1]{fontenc}
 \usepackage{graphicx}
 \usepackage[export]{adjustbox}
-\graphicspath{ {./images/} }
+\graphicspath{{./images/}{../cose da aggiungere/pittogrammi/}{../cose da aggiungere/privacy_conformita/}}
 \usepackage{caption}
 \usepackage{amsmath}
 \usepackage{amsfonts}
@@ -17,7 +17,7 @@
 \usepackage{array}
 
 \usepackage{titling}
-\pretitle{\begin{center}\includegraphics[width=\textwidth]{/home/keyser/Coding/cosmesi_ale/cose da aggiungere/header_WATT+}\\[6em]}
+\pretitle{\begin{center}\includegraphics[width=\textwidth]{../cose da aggiungere/header_WATT+}\\[6em]}
 	\posttitle{\end{center}}
 
 %\DeclareUnicodeCharacter{00D7}{\ifmmode\times\else{$\times$}\fi}
@@ -44,6 +44,9 @@
 
 \section{Istruzioni di sicurezza}
 Per garantire un uso corretto e sicuro di questo prodotto, leggere attentamente le istruzioni prima dell'uso. Seguire tutte le precauzioni di sicurezza!
+
+\section{Simboli}
+\input{../cose da aggiungere/pittogrammi/pittogrammi.tex}
 
 \section{AVVERTENZE}
 Indica una situazione potenzialmente pericolosa che, se non evitata, potrebbe causare gravi perdite di vite umane.
@@ -80,7 +83,9 @@ Se il prodotto presenta anomalie, interromperne immediatamente l'uso e contattar
 Questo prodotto e i suoi accessori devono essere maneggiati con cura.\\
 Maneggiare correttamente l'imballaggio di questo prodotto per evitare incidenti come il soffocamento dei neonati e tenerlo fuori dalla portata dei bambini.
 
-\begin{figure}[h]
+% manca qualcosa?
+
+\begin{figure}[H]
 \begin{center}
 \captionsetup{labelformat=empty}
 \caption{- F-365}
@@ -88,7 +93,7 @@ Maneggiare correttamente l'imballaggio di questo prodotto per evitare incidenti 
 \end{center}
 \end{figure}
 
-\begin{figure}[h]
+\begin{figure}[H]
 \begin{center}
   \includegraphics[alt={},max width=\textwidth]{d37529a0-3e88-4d45-bc8d-f5015b8b0964-03_282_977_1194_529}
 \captionsetup{labelformat=empty}
@@ -104,7 +109,7 @@ Fare clic per selezionare la funzione richiesta dall'interfaccia principale e si
 
 Tutte le interfacce di lavoro dispongono di un pulsante per tornare all'interfaccia principale.
 
-\begin{table}[h]
+\begin{table}[H]
 \begin{center}
 \captionsetup{labelformat=empty}
 \caption{Parametri del prodotto}
@@ -395,12 +400,8 @@ Contenuto della confezione & Accessori x1 \\
 \end{tabular}
 \end{center}
 
-\newpage
+\input{../cose da aggiungere/consenso informato/consenso_RFUSION+.tex}
 
-\input{/home/keyser/Coding/cosmesi_ale/cose da aggiungere/privacy_conformita/privacy_conformita.tex}
-
-\section{Simboli}
-\input{/home/keyser/Coding/cosmesi_ale/cose da aggiungere/pittogrammi/pittogrammi.tex}
-
+\input{../cose da aggiungere/privacy_conformita/privacy_conformita.tex}
 
 \end{document}

@@ -4,7 +4,7 @@
 \usepackage[T1]{fontenc}
 \usepackage{graphicx}
 \usepackage[export]{adjustbox}
-\graphicspath{ {./images/} }
+\graphicspath{{./images/}{../cose da aggiungere/pittogrammi/}{../cose da aggiungere/privacy_conformita/}}
 \usepackage{caption}
 \usepackage{amsmath}
 \usepackage{amsfonts}
@@ -18,7 +18,7 @@
 \usepackage{enumitem}
 
 \usepackage{titling}
-	\pretitle{\begin{center}\includegraphics[width=\textwidth]{/home/keyser/Coding/cosmesi_ale/cose da aggiungere/header_WATT+}\\[6em]}
+	\pretitle{\begin{center}\includegraphics[width=\textwidth]{../cose da aggiungere/header_WATT+}\\[6em]}
 	\posttitle{\end{center}}  
 
 %New command to display footnote whose markers will always be hidden
@@ -69,6 +69,12 @@ Prima di installare o utilizzare questo apparecchio, leggere attentamente le pre
 \newpage
 
 \tableofcontents
+
+\newpage
+
+\section{Simboli}
+
+\input{../cose da aggiungere/pittogrammi/pittogrammi.tex}
 
 \newpage
 
@@ -724,12 +730,8 @@ Zontrollare che l'alimentatore sia alimentato e che le spine di collegamento sia
   \item La tensione è instabile e dovrebbe essere introdotto un regolatore di tensione
 \end{itemize}
 
-\newpage
+\input{../cose da aggiungere/consenso informato/consenso_HYDRA_DERMO_COMPLEX+.tex}
 
-\input{/home/keyser/Coding/cosmesi_ale/cose da aggiungere/privacy_conformita/privacy_conformita.tex}
-
-\section{Simboli}
-\input{/home/keyser/Coding/cosmesi_ale/cose da aggiungere/pittogrammi/pittogrammi.tex}
-
+\input{../cose da aggiungere/privacy_conformita/privacy_conformita.tex}
 
 \end{document}
