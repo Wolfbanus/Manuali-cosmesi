@@ -47,4 +47,7 @@ TO DO:
 	- [ ] da mettere a posto immagini e tabelle
 	- [ ] controllare sezionamento
 
+- [ ] CELLUFREEZE+
+	- [ ] non ho il manuale pdf
+ 	- [x] consenso informato
 
