@@ -1,5 +1,21 @@
 TO DO:
 
+- [ ] BEAUTY BRIDGE+
+	- [x] consenso informato
+ 	- [x] mettere elenchi puntati
+  	- [x] aggiornare dimensione conformità
+  	- [ ] controllare sezionamento
+
+- [ ] CELLUFREEZE+
+	- [ ] non ho il manuale pdf
+ 	- [x] consenso informato
+
+- [ ] COPERTA SAUNA INFRAROSSI
+	- [ ] consenso informato (Ale)
+ 	- [x] spostare sezione simboli
+  	- [x] aggiornare dimensione conformità
+  	- [ ] controllare sezionamento
+     
 - [ ] DRENALINPHA+
 	- [x] simboli sicurezza
 	- [ ] foto prima pagina (Ale)
@@ -19,24 +35,6 @@ TO DO:
 	- [x] simboli sicurezza
  	- [x] aggiornare dimensione conformità
 
-- [ ] BEAUTY BRIDGE+
-	- [x] consenso informato
- 	- [x] mettere elenchi puntati
-  	- [x] aggiornare dimensione conformità
-  	- [ ] controllare sezionamento
-
-- [ ] RF-USION+
-	- [x] consenso informato
-	- [x]  pagina
- 	- [x] aggiornare dimensione conformità
-  	- [ ] controllare sezionamento
-
-- [ ] COPERTA SAUNA INFRAROSSI
-	- [ ] consenso informato (Ale)
- 	- [x] spostare sezione simboli
-  	- [x] aggiornare dimensione conformità
-  	- [ ] controllare sezionamento
-
 - [ ] EPIL FORCE+
 	- [ ] sentire ale se l'ha già fatto
 
@@ -48,6 +46,12 @@ TO DO:
 	- [ ] mettere a posto tabelle e figure
  	- [ ] controllare sezionamento
   	- [x] aggiornare dimensione conformità
+
+- [ ] RF-USION+
+	- [x] consenso informato
+	- [x]  pagina
+ 	- [x] aggiornare dimensione conformità
+  	- [ ] controllare sezionamento
  
 - [ ] ROLLERSHAPE+
 	- [ ] foto prima pagina (Ale)
@@ -62,8 +66,4 @@ TO DO:
 	- [ ] mettere a posto immagini e tabelle
 	- [ ] controllare sezionamento
  	- [x] aggiornare dimensione conformità
-
-- [ ] CELLUFREEZE+
-	- [ ] non ho il manuale pdf
- 	- [x] consenso informato
 
