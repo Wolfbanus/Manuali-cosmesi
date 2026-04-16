@@ -4,28 +4,38 @@ TO DO:
 	- [x] simboli sicurezza
 	- [ ] foto prima pagina (Ale)
 	- [x] aggiornare consenso informato
+ 	- [x] aggiornare dimensione conformità
+  	- [ ] controllare sezionamento
 
 - [ ] ELETTROPULSE+
-	- [ ] foto prima pagina
+	- [ ] foto prima pagina (Ale)
 	- [x] toc
-	- [ ] tabella eccede pag.19-20
+	- [x] tabelle eccedenti bordo destro
 	- [x] togliere sezioni ripetute ELECTROPORAL
 	- [ ] mettere a posto sezionamento
 	- [x] privacy
 	- [x] consenso informato
 	- [x] attestato conformità
 	- [x] simboli sicurezza
+ 	- [x] aggiornare dimensione conformità
 
 - [ ] BEAUTY BRIDGE+
 	- [x] consenso informato
  	- [x] mettere elenchi puntati
+  	- [x] aggiornare dimensione conformità
+  	- [ ] controllare sezionamento
 
 - [ ] RF-USION+
 	- [x] consenso informato
-	- [x] foto prima pagina
+	- [x]  pagina
+ 	- [x] aggiornare dimensione conformità
+  	- [ ] controllare sezionamento
 
 - [ ] COPERTA SAUNA INFRAROSSI
 	- [ ] consenso informato (Ale)
+ 	- [x] spostare sezione simboli
+  	- [x] aggiornare dimensione conformità
+  	- [ ] controllare sezionamento
 
 - [ ] EPIL FORCE+
 	- [ ] sentire ale se l'ha già fatto
@@ -34,17 +44,26 @@ TO DO:
 	- [x] \begin{figure}[H]
 	- [x] consenso informato
 	- [x] simboli
- 	- [ ] privacy
+ 	- [x] privacy
 	- [ ] mettere a posto tabelle e figure
  	- [ ] controllare sezionamento
+  	- [x] aggiornare dimensione conformità
  
 - [ ] ROLLERSHAPE+
-	- [ ] foto prima pagina
+	- [ ] foto prima pagina (Ale)
 	- [x] consenso informato
+ 	- [x] impostato italiano
+  	- [x] spostato simboli
+  	- [x] aggiornare dimensione conformità
+  	- [ ] controllare sezionamento
 
 - [ ] SKIN ANALYZER+
 	- [ ] consenso informato (Ale)
-	- [ ] da mettere a posto immagini e tabelle
+	- [ ] mettere a posto immagini e tabelle
 	- [ ] controllare sezionamento
+ 	- [x] aggiornare dimensione conformità
 
+- [ ] CELLUFREEZE+
+	- [ ] non ho il manuale pdf
+ 	- [x] consenso informato
 
