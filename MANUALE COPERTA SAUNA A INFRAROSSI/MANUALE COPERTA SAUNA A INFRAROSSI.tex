@@ -1,10 +1,10 @@
-\documentclass[10pt]{article}
+\documentclass[a4paper]{article}
 \usepackage[italian]{babel}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage{graphicx}
 \usepackage[export]{adjustbox}
-\graphicspath{ {./images/} }
+\graphicspath{{./images/}{../cose da aggiungere/pittogrammi/}{../cose da aggiungere/privacy_conformita/}}
 \usepackage{amsmath}
 \usepackage{amsfonts}
 \usepackage{amssymb}
@@ -14,7 +14,7 @@
 \usepackage{float}
 
 \usepackage{titling}
-\pretitle{\begin{center}\includegraphics[width=\textwidth]{/home/keyser/Coding/cosmesi_ale/cose da aggiungere/header_WATT+}\\[6em]}
+\pretitle{\begin{center}\includegraphics[width=\textwidth]{../cose da aggiungere/header_WATT+}\\[6em]}
 	\posttitle{\end{center}}  
 
 \title{\Huge{MANUALE COPERTA SAUNA A INFRAROSSI}}
@@ -35,6 +35,8 @@
 \newpage
 
 \tableofcontents
+
+\newpage
 
 \section{Manuale di istruzioni}
 
@@ -64,6 +66,11 @@ L'azienda non informerà l'utente in caso di aggiornamenti tecnologici o softwar
   \item Non usare durante temporali o fulmini.
   \item Se il dispositivo emette rumori anomali, spegnere e scollegare immediatamente.
 \end{enumerate}
+
+\section{Simboli}
+\input{../cose da aggiungere/pittogrammi/pittogrammi.tex}
+
+\newpage
 
 \section{TEMPO DI PRERISCALDAMENTO}
 Si consiglia di entrare nella coperta $3-5$ minuti dopo l'accensione.\\
@@ -95,9 +102,6 @@ $-220 \mathrm{~V}-560 \mathrm{~W} ; 50 \mathrm{~Hz}$
 
 \newpage
 
-\input{/home/keyser/Coding/cosmesi_ale/cose da aggiungere/privacy_conformita/privacy_conformita.tex}
-
-\section{Simboli}
-\input{/home/keyser/Coding/cosmesi_ale/cose da aggiungere/pittogrammi/pittogrammi.tex}
+\input{../cose da aggiungere/privacy_conformita/privacy_conformita.tex}
 
 \end{document}

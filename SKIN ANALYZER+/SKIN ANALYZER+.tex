@@ -4,7 +4,7 @@
 \usepackage[utf8]{inputenc}
 \usepackage{graphicx}
 \usepackage[export]{adjustbox}
-\graphicspath{ {./images/} }
+\graphicspath{{./images/}{../cose da aggiungere/pittogrammi/}{../cose da aggiungere/privacy_conformita/}}
 \usepackage{caption}
 \usepackage{amsmath}
 \usepackage{amsfonts}
@@ -21,29 +21,29 @@
 \usepackage{array}
 
 \usepackage{titling}
-\pretitle{\begin{center}\includegraphics[width=\textwidth]{/home/keyser/Coding/cosmesi_ale/cose da aggiungere/header_WATT+}\\[6em]}
+\pretitle{\begin{center}\includegraphics[width=\textwidth]{../cose da aggiungere/header_WATT+}\\[6em]}
 	\posttitle{\end{center}}
 
 \usepackage[fallback]{xeCJK}
 \usepackage{polyglossia}
 \usepackage{fontspec}
 \usepackage{newunicodechar}
-\IfFontExistsTF{Noto Serif CJK JP}
-{\setCJKmainfont{Noto Serif CJK JP}}
-{\IfFontExistsTF{STSong}
-  {\setCJKmainfont{STSong}}
-  {\IfFontExistsTF{Droid Sans Fallback}
-    {\setCJKmainfont{Droid Sans Fallback}}
-    {\setCJKmainfont{SimSun}}
-}}
+%\IfFontExistsTF{Noto Serif CJK JP}
+%{\setCJKmainfont{Noto Serif CJK JP}}
+%{\IfFontExistsTF{STSong}
+%  {\setCJKmainfont{STSong}}
+%  {\IfFontExistsTF{Droid Sans Fallback}
+%    {\setCJKmainfont{Droid Sans Fallback}}
+%    {\setCJKmainfont{SimSun}}
+%}}
 
 \setmainlanguage{italian}
 \IfFontExistsTF{CMU Serif}
-{\setmainfont{CMU Serif}}
-{\IfFontExistsTF{DejaVu Sans}
-  {\setmainfont{DejaVu Sans}}
-  {\setmainfont{Georgia}}
-}
+%{\setmainfont{CMU Serif}}
+%{\IfFontExistsTF{DejaVu Sans}
+%  {\setmainfont{DejaVu Sans}}
+%  {\setmainfont{Georgia}}
+%}
 
 %New command to display footnote whose markers will always be hidden
 \let\svthefootnote\thefootnote
@@ -99,6 +99,11 @@ L'azienda si impegna a garantire che le informazioni contenute in questo manuale
 \newpage
 
 \tableofcontents
+
+\newpage
+
+\section{Simboli}
+\input{../cose da aggiungere/pittogrammi/pittogrammi.tex}
 
 \newpage
 
@@ -1167,12 +1172,6 @@ Quando il dispositivo non viene utilizzato per un lungo periodo, è consigliabil
 \section{Protezione dell'ambiente}
 Questo prodotto non influisce sull'ambiente dopo la sua smaltimento e non richiede alcun trattamento speciale. I clienti possono smontare il dispositivo e smaltirlo.
 
-\newpage
-
-\input{/home/keyser/Coding/cosmesi_ale/cose da aggiungere/privacy_conformita/privacy_conformita.tex}
-
-\section{Simboli}
-\input{/home/keyser/Coding/cosmesi_ale/cose da aggiungere/pittogrammi/pittogrammi.tex}
-
+\input{../cose da aggiungere/privacy_conformita/privacy_conformita.tex}
 
 \end{document}

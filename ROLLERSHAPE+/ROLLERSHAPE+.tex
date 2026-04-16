@@ -1,5 +1,5 @@
 % This LaTeX document needs to be compiled with XeLaTeX.
-\documentclass[10pt]{article}
+\documentclass[a4paper]{article}
 \usepackage[utf8]{inputenc}
 \usepackage{amsmath}
 \usepackage{amsfonts}
@@ -8,18 +8,18 @@
 \usepackage{stmaryrd}
 \usepackage{graphicx}
 \usepackage[export]{adjustbox}
-\graphicspath{ {./images/} }
+\graphicspath{{./images/}{../cose da aggiungere/pittogrammi/}{../cose da aggiungere/privacy_conformita/}}
 \usepackage{caption}
 \usepackage[fallback]{xeCJK}
 \usepackage{polyglossia}
+\setmainlanguage{italian}
 
 \usepackage{float}
 \usepackage{tabularx}
 
 \usepackage{titling}
 \pretitle{\begin{center}\includegraphics[width=\textwidth]{images/WATT+}\\[6em]}
-\posttitle{\end{center}}   
-
+\posttitle{\end{center}}
 
 \usepackage{fontspec}
 
@@ -54,6 +54,10 @@
 
 \newpage
 
+\tableofcontents
+
+\newpage
+
 \section{Prefazione}
 Gentile utente: 
 
@@ -63,6 +67,9 @@ rigidità e Dolore, scomporre i depositi di grasso sottocutaneo,\\
 Elimina la cellulite, riduce la cellulite e modella la tua figura. Già dopo pochi utilizzi. Con questi trattamenti il tuo corpo ridurrà immediatamente il suo volume di 1 o 2 taglie! Applicato Sul viso, aiuta a migliorare la formazione dei vasi sanguigni, favorendo così produzione di collagene ed elastina, aumentando l'apporto di ossigeno, nutrendo e Illumina i tessuti dall'interno. Rilassa e regola i muscoli e aiuta per ridurre le linee di espressione.
 
 Migliora l'aspetto, riduce il gonfiore, combatte il rilassamento cutaneo e ringiovanisce la pelle. affrontare in modo significativo. La terapia microvibrazionale compressiva è appositamente progettato per il ringiovanimento cutaneo non invasivo, il Rimodellamento corporeo e fisioterapia. È l'ultima generazione in fatto di cura Rimodellamento del corpo per viso, collo, spalle, braccia, petto, schiena, vita, addome, glutei, gambe e piedi, tra gli altri. Terapia microvibrazionale di La compressione è un trattamento che può riattivare la circolazione sanguigna e un metodo che può trattare patologie complesse come la stasi linfatica, linfedema e cellulite, migliorando così la nutrizione e l'ossigenazione della pelle Cellulare. La terapia microvibrazionale compressiva è un'innovativa combinazione di bellezza e salute.
+
+\section{Simboli}
+\input{../cose da aggiungere/pittogrammi/pittogrammi.tex}
 
 \section{Introduzione dei principi}
 Il dispositivo a rulli interni è un trattamento non invasivo di Microvibrazione tramite compressione meccanica. Il principio è che la sfera in silicone Ruota di $360^{\circ}$ lungo il rullo per generare microvibrazioni di compressione. Ruotando e applicando pressione sulla pelle si produce un effetto di "compressione". pulsante", con un movimento alternato, continuo di impastamento e spinta trazione. Il tessuto subisce pressione e sollevamento, senza comprimere o danneggiare il pelle. La pressione esercitata sul tessuto allunga le cellule e le stimola. attività cellulare naturale e profonda, flusso sanguigno e ossigenazione. I depositi di grasso vengono pressurizzati e allentati per la decomposizione, riduce ed elimina la cellulite. Inoltre, esercita pressione sui gruppi muscolari. muscoli profondi per ammorbidirli e allungarli completamente, riducendo riducendo così la rigidità e il dolore muscolare e accelerando il metabolismo.
@@ -265,13 +272,8 @@ Temperatura ambiente & $5^{\circ} \mathrm{C} \sim+40^{\circ} \mathrm{C}$ \\
 \end{center}
 \end{table}
 
-\newpage
+\input{../cose da aggiungere/consenso informato/consenso_ROLLERSHAPE+.tex}
 
-\input{/home/keyser/Coding/cosmesi_ale/cose da aggiungere/privacy_conformita/privacy_conformita.tex}
-
-\section{Simboli}
-\input{/home/keyser/Coding/cosmesi_ale/cose da aggiungere/pittogrammi/pittogrammi.tex}
-
-
+\input{../cose da aggiungere/privacy_conformita/privacy_conformita.tex}
 
 \end{document}
