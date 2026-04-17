@@ -14,7 +14,7 @@ TO DO:
 	- [ ] consenso informato (Ale)
  	- [x] spostare sezione simboli
   	- [x] aggiornare dimensione conformità
-  	- [ ] controllare sezionamento
+  	- [x] controllare sezionamento
      
 - [ ] DRENALINPHA+
 	- [x] simboli sicurezza
