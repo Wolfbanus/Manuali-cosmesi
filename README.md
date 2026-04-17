@@ -4,7 +4,8 @@ TO DO:
 	- [x] consenso informato
  	- [x] mettere elenchi puntati
   	- [x] aggiornare dimensione conformità
-  	- [ ] controllare sezionamento
+  	- [x] controllare sezionamento
+  	- [ ] esportare ultima pagina del pdf originale per sostituire jpg dichiarazione conformità in tutti i manuali
 
 - [ ] CELLUFREEZE+ (non ho il manuale pdf)
  	- [x] consenso informato
