@@ -6,8 +6,7 @@ TO DO:
   	- [x] aggiornare dimensione conformità
   	- [ ] controllare sezionamento
 
-- [ ] CELLUFREEZE+
-	- [ ] non ho il manuale pdf
+- [ ] CELLUFREEZE+ (non ho il manuale pdf)
  	- [x] consenso informato
 
 - [ ] COPERTA SAUNA INFRAROSSI
