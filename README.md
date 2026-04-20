@@ -11,7 +11,7 @@ TO DO:
  	- [x] consenso informato
 
 - [ ] COPERTA SAUNA INFRAROSSI
-	- [ ] consenso informato (Ale)
+	- [x] consenso informato (Ale)
  	- [x] spostare sezione simboli
   	- [x] aggiornare dimensione conformità
   	- [x] controllare sezionamento
