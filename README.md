@@ -18,7 +18,7 @@ TO DO:
      
 - [ ] DRENALINPHA+
 	- [x] simboli sicurezza
-	- [ ] foto prima pagina (Ale)
+	- [x] foto prima pagina (Ale)
 	- [x] aggiornare consenso informato
  	- [x] aggiornare dimensione conformità
   	- [x] controllare sezionamento
