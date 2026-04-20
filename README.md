@@ -55,12 +55,13 @@ TO DO:
   	- [ ] controllare sezionamento
  
 - [ ] ROLLERSHAPE+
-	- [ ] foto prima pagina (Ale)
+	- [x] foto prima pagina (Ale)
 	- [x] consenso informato
  	- [x] impostato italiano
   	- [x] spostato simboli
   	- [x] aggiornare dimensione conformità
   	- [ ] controllare sezionamento
+  	- [ ] rifare pagina display
 
 - [ ] SKIN ANALYZER+
 	- [ ] consenso informato (Ale)
