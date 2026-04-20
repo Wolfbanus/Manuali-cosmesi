@@ -24,16 +24,17 @@ TO DO:
   	- [x] controllare sezionamento
 
 - [ ] ELETTROPULSE+
-	- [ ] foto prima pagina (Ale)
+	- [x] foto prima pagina 
+	- [ ] controllare se foto prima pagina va bene (Ale)
 	- [x] toc
 	- [x] tabelle eccedenti bordo destro
 	- [x] togliere sezioni ripetute ELECTROPORAL
-	- [ ] mettere a posto sezionamento
+	- [x] mettere a posto sezionamento
 	- [x] privacy
 	- [x] consenso informato
 	- [x] attestato conformità
 	- [x] simboli sicurezza
- 	- [x] aggiornare dimensione conformità
+    - [x] aggiornare dimensione conformità
 
 - [ ] EPIL FORCE+
 	- [ ] sentire ale se l'ha già fatto
