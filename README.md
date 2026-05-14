@@ -23,10 +23,10 @@ TO DO:
  	- [x] aggiornare dimensione conformità
   	- [x] controllare sezionamento
 
-- [ ] ELETTROPULSE+
+- [x] ELETTROPULSE+
 	- [x] foto prima pagina 
 	- [x] controllare se foto prima pagina va bene (Ale)
-	- [ ] sostituire immagine prima pagina
+	- [x] sostituire immagine prima pagina
 	- [x] toc
 	- [x] tabelle eccedenti bordo destro
 	- [x] togliere sezioni ripetute ELECTROPORAL
@@ -58,7 +58,7 @@ TO DO:
 	- [x]  pagina
  	- [x] aggiornare dimensione conformità
   	- [x] controllare sezionamento
-  	- [ ] controllare testo tabella (Ale)
+  	- [ ] controllare testo tabella perché ha poco senso (Ale)
  
 - [ ] ROLLERSHAPE+
 	- [x] foto prima pagina (Ale)
