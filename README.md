@@ -45,10 +45,13 @@ TO DO:
 
 - [ ] EPIL FORCE+
 	- [x] sentire ale se l'ha già fatto
-	- [ ] \begin{figure}[H]
-	- [ ] \begin{table}[H]
+	- [x] \begin{figure}[H]
+	- [x] \begin{table}[H]
 	- [ ] controllare sezionamento
-    - [ ] modificare titolo
+    - [x] modificare titolo
+    - [ ] foto prima pagina (Ale)
+    - [ ] consenso informato (Ale)
+    - [ ] mettere a posto tabella e figure
 
 
 - [ ] HYDRA DERMO COMPLEX+
@@ -62,7 +65,7 @@ TO DO:
     - [ ] modificare titolo
 
 
-- [ ] RF-USION+
+- [x] RF-USION+
 	- [x] consenso informato
 	- [x]  pagina
  	- [x] aggiornare dimensione conformità

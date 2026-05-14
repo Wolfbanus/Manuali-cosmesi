@@ -36,9 +36,15 @@
   {\setmainfont{Georgia}}
 }
 
-\title{$\sqrt{1} 70+$ }
+\usepackage{tabularx}
+\usepackage{float}
 
-\author{}
+
+\usepackage{titling}
+\pretitle{\begin{center}\includegraphics[width=\textwidth]{../../cose da aggiungere/header_WATT+}\\[6em]}
+	\posttitle{\end{center}}
+
+\title{\Huge{EPIL FORCE+\\Manuale d'uso}}
 \date{}
 
 
@@ -46,58 +52,17 @@
 \newunicodechar{✓}{\ifmmode\checkmark\else{$\checkmark$}\fi}
 
 \begin{document}
+	
 \maketitle
-\captionsetup{singlelinecheck=false}
-\section{WNET+}
-Manuale dell' utente\\
-Diode Laser con Android System
+%\captionsetup{singlelinecheck=false}
 
-Capitolo 1 Istruzioni per l'utente\\
-1.1 Sicurezza\\
-1.2 Formazione degli operatori\\
-1.3 Sicurezza degli impianti elettrici e delle apparecchiature
+\newpage
 
-Capitolo 2 Introduzione del prodotto\\
-2.1 Descrizione del prodotto\\
-2.2 Struttura e prestazioni del prodotto\\
-2.2.1 Composizione strutturale\\
-2.2.2 Specifiche delle apparecchiature
+\tableofcontents
 
-\section{W $/ \sqrt{6}+$}
-2.3 Applicazioni di trattamento\\
-2.4 Accessori per apparecchiature
+\newpage
 
-CAPITOLO 3 INSTALLAZIONE\\
-3.1 Processo di installazione delle apparecchiature\\
-3.2 Requisiti di installazione e quantità di acqua immessa\\
-3.2.1 Direttiva sulle acque di scarico\\
-3.2.2 Prove del ciclo dell'acqua\\
-3.2.2 Installazione delle maniglie di movimentazione
-
-Capitolo 4 Insegnamento del software\\
-4.1 Display funzionante\\
-4.1.1 Descrizione del display funzionante\\
-4.1.2 Istruzioni di allarme\\
-4.2 Visualizzazione delle impostazioni di sistema\\
-4.2.1 Istruzioni per la visualizzazione delle impostazioni di sistema\\
-4.2.2 Impostazioni dei parametri in background\\
-4.3 Istruzioni per l'uso del software\\
-4.4 Modalità di funzionamento del dispositivo\\
-4.5 Precauzioni dopo il trattamento
-
-Capitolo 5 Manutenzione\\
-5.1 Pulizia delle attrezzature\\
-5.2 Pulizia e sostituzione delle maniglie di movimentazione\\
-5.3 Gestione dei guasti del sistema
-
-Capitolo 6 DISPOSIZIONI\\
-Capitolo 7 protocolli medi Specifiche\\
-Capitolo 8 protocolli fotobiostimolazione\\
-Garanzia\\
-Consenso informato\\
-Certificazione
-
-Capitolo 1 Istruzioni per l'utente\\
+\section{Istruzioni per l'utente}
 Si prega di leggere attentamente il manuale prima dell'operazione! Assicurarsi che l'apparecchiatura sia in condizioni di lavoro. Evita danni inutili. Se l'operatore desidera collegare il dispositivo ad altre periferiche, leggere attentamente il manuale delle periferiche.
 
 \subsection{Sicurezza}
@@ -108,14 +73,15 @@ In caso di emergenza, premere il pulsante di emergenza (pulsante rosso) per speg
 Nota: Solo personale addestrato dal rivenditore ha il diritto di mantenere le strutture interne dello strumento e qualsiasi trattamento non autorizzato può causare danni allo strumento e invalidare la garanzia.
 
 \subsection{Formazione degli operatori}
-Il dispositivo può essere utilizzato solo da persone che hanno una formazione professionale per comprendere gli effetti terapeutici e i possibili rischi. L'operatore deve leggere attentamente il manuale dell'utente prima di utilizzare l'apparecchiatura. Nel corso del trattamento, la sala di trattamento deve essere contrassegnata con le parole "non è consentito l'ingresso di persone non correlate". Prima dell'intervento, l'operatore deve informare il paziente dei possibili rischi del trattamento e il paziente deve raggiungere un accordo scritto sul trattamento. Il successo del trattamento dipende principalmente dall'esperienza e dalla competenza dell'operatore. Durante il trattamento, l'operatore deve indossare occhiali protettivi e l'oggetto del trattamento deve indossare occhiali protettivi. Gli occhiali protettivi e gli occhiali protettivi sono appositamente attrezzati dalla società di strumenti. Non indossare occhiali protettivi che non soddisfano i requisiti di sicurezza.\\
-1.3 Sicurezza degli impianti elettrici e delle apparecchiature
+Il dispositivo può essere utilizzato solo da persone che hanno una formazione professionale per comprendere gli effetti terapeutici e i possibili rischi. L'operatore deve leggere attentamente il manuale dell'utente prima di utilizzare l'apparecchiatura. Nel corso del trattamento, la sala di trattamento deve essere contrassegnata con le parole "non è consentito l'ingresso di persone non correlate". Prima dell'intervento, l'operatore deve informare il paziente dei possibili rischi del trattamento e il paziente deve raggiungere un accordo scritto sul trattamento. Il successo del trattamento dipende principalmente dall'esperienza e dalla competenza dell'operatore. Durante il trattamento, l'operatore deve indossare occhiali protettivi e l'oggetto del trattamento deve indossare occhiali protettivi. Gli occhiali protettivi e gli occhiali protettivi sono appositamente attrezzati dalla società di strumenti. Non indossare occhiali protettivi che non soddisfano i requisiti di sicurezza.
+
+\subsection{Sicurezza degli impianti elettrici e delle apparecchiature}
 
 L'alimentatore utilizzato nell'apparecchiatura è $200 \mathrm{~V} \sim 240 \mathrm{~V}(50 / 60 \mathrm{~Hz})$ dello standard internazionale per l'alimentazione monofase ( $120 \mathrm{~V} \sim 260 \mathrm{~V}, 50 / 60 \mathrm{~Hz}$ ); Presa a tre fili monofase 20 A ( $90 \sim 130 \mathrm{~V}, 50 / 60 \mathrm{~Hz}$ ). L'apparecchiatura è a contatto con il suolo attraverso tre fili e deve essere messa a terra in modo affidabile. Solo il personale autorizzato può riparare l'attrezzatura, altrimenti il periodo di garanzia scadrà.
 
 Nota: evitare l'uso di sostanze infiammabili come acetone e alcool nell'area operativa. Quando si disinfetta l'apparecchiatura con prodotti alcolici, assicurarsi che l'alcool sia completamente evaporato prima di utilizzare l'apparecchiatura.
 
-\section{Capitolo 2 Presentazione del prodotto}
+\section{Presentazione del prodotto}
 \subsection{Descrizione del prodotto}
 Il sistema Android SmartDepi è un dispositivo di depilazione laser a semiconduttore. È un dispositivo che utilizza un laser a semiconduttore continuo ad alta energia per realizzare la conversione di elettricità, luce e calore e completare il trattamento delle malattie. È una raccolta di tecnologia laser, elettronica e informatica.
 
@@ -146,7 +112,7 @@ Interruttore a pedale: premere l'interruttore a pedale e il dispositivo si aprir
 
 La maniglia di manipolazione è il principale meccanismo di attuazione della manipolazione, inclusi tubi e \href{http://teste.Il}{teste.Il} cavo dati sono nel tubo. La Figura 2-2-2 è la maniglia di elaborazione.
 
-\begin{figure}[h]
+\begin{figure}[H]{figure}[h]
 \begin{center}
 \captionsetup{labelformat=empty}
 \caption{Foto 2-2 2}
@@ -159,7 +125,7 @@ Display LCD della maniglia: densità di potenza, temperatura di raffreddamento d
 Specifiche per Android-SmartDepi\\
 Specifiche per Android-SmartDepi
 
-\begin{table}[h]
+\begin{table}[H]
 \begin{center}
 \captionsetup{labelformat=empty}
 \caption{Tabella 2-2-1 Specifiche dell'attrezzatura}
@@ -191,8 +157,8 @@ densita 'energia & $10-40 \mathrm{~J} /$ CM2 \\
 \includegraphics[max width=\textwidth, alt={}]{0673f156-6613-4c24-ad16-c1dd5450a875-09_901_1573_11_264}
 \end{center}
 
-Capitolo 3 Installazione di un impianto\\
-3.1 Processo di installazione delle apparecchiature
+\section{Installazione di un impianto}
+\subsection{Processo di installazione delle apparecchiature}
 
 L'apparecchiatura deve essere installata in un ambiente privo di gas corrosivi, polvere e meno particelle, che possono causare danni ai componenti elettronici e ottici e ai cavi dell'apparecchiatura. Più polvere e particelle nell'aria possono anche causare danni ai filtri e ai componenti elettrici.
 
@@ -378,7 +344,7 @@ dettagli del cliente per accedere alla selezione del genere per inserire la sele
 Come mostrato nella figura, selezionare innanzitutto il pulsante Salva nell'interfaccia operativa principale per selezionare Salva Aggiungi o Salva aggiornamento Seleziona Salva aggiornamento Pulsante di conferma aggiornamento Pagina dei dettagli dell'utente Aggiungi telefono Aggiungi la data di trattamento successiva e torna all'interfaccia operativa principale per il trattamento.
 
 \subsubsection{Visualizzazione e descrizione dell'interfaccia in background}
-\begin{figure}[h]
+\begin{figure}[H]
 \begin{center}
   \includegraphics[alt={},max width=\textwidth]{0673f156-6613-4c24-ad16-c1dd5450a875-27_803_1769_13_294}
 \captionsetup{labelformat=empty}
@@ -386,7 +352,7 @@ Come mostrato nella figura, selezionare innanzitutto il pulsante Salva nell'inte
 \end{center}
 \end{figure}
 
-\begin{figure}[h]
+\begin{figure}[H]
 \begin{center}
   \includegraphics[alt={},max width=\textwidth]{0673f156-6613-4c24-ad16-c1dd5450a875-27_408_1180_922_292}
 \captionsetup{labelformat=empty}
@@ -398,7 +364,7 @@ Come mostrato nella figura, selezionare innanzitutto il pulsante Salva nell'inte
 \includegraphics[max width=\textwidth, alt={}]{0673f156-6613-4c24-ad16-c1dd5450a875-27_90_236_1087_1731}
 \end{center}
 
-\begin{figure}[h]
+\begin{figure}[H]
 \begin{center}
   \includegraphics[alt={},max width=\textwidth]{0673f156-6613-4c24-ad16-c1dd5450a875-28_1653_1751_13_315}
 \captionsetup{labelformat=empty}
@@ -481,38 +447,74 @@ Ilpulsante di accensione non risponde & Si prega di contattare il venditore \\
 \end{tabular}
 \end{center}
 
-\begin{center}
-\begin{tabular}{|l|l|}
-\hline
-\backslashbox{\begin{center}
-\includegraphics[max width=\textwidth, alt={}]{0673f156-6613-4c24-ad16-c1dd5450a875-34_388_797_20_326}
-\end{center}}
-{\includegraphics[max width=\textwidth, alt={}]{0673f156-6613-4c24-ad16-c1dd5450a875-34_237_467_151_1362}} &  \\
-\hline
- & La testa del trattamento è surriscaldata, chiusa e raffreddata per mezz'ora dopo l'uso \\
-\hline
- & Controllare la maniglia o la testa di lavorazione per eventuali perdite \\
-\hline
-\multirow{6}{*}{Durante il trattamento, dopo aver fatto clic sul pulsante sulla maniglia, appare un suono "cigolante"} & Controllare se la testa del trattamento laser è danneggiata e sostituirla dopo il danno \\
-\hline
- & Il dispositivo non è in uso da molto tempo ed è difficile da innescare \\
-\hline
- & La temperatura interna è troppo bassa per aumentare la temperatura interna \\
-\hline
- & Controllare il circuito per guasti \\
-\hline
- & La stanza è troppo umida, riducendo l'umidità interna \\
-\hline
- & Lampada al krypton o allo xeno danneggiata, lampada \\
-\hline
-Temperatura del sistema di refrigerazione troppo elevata & Spegni il sistema e lascialo raffreddare per un po '. Se si verifica ancora un errore dopo il riavvio, contattare il rivenditore \\
-\hline
-\multirow{2}{*}{Maniglia a bassa energia} & Controllare la superficie del riflettore per impurità, pulire se necessario \\
-\hline
- & Se la maniglia di manipolazione è troppo calda, spegnerla per mezz'ora prima dell'uso \\
-\hline
-\end{tabular}
-\end{center}
+%\begin{center}
+%\begin{tabular}{|l|l|}
+%\hline
+%\backslashbox{\begin{center}
+%\includegraphics[max width=\textwidth, alt={}]{0673f156-6613-4c24-ad16-c1dd5450a875-34_388_797_20_326}
+%\end{center}}
+%{\includegraphics[max width=\textwidth, alt={}]{0673f156-6613-4c24-ad16-c1dd5450a875-34_237_467_151_1362}} &  \\
+%\hline
+% & La testa del trattamento è surriscaldata, chiusa e raffreddata per mezz'ora dopo l'uso \\
+%\hline
+% & Controllare la maniglia o la testa di lavorazione per eventuali perdite \\
+%\hline
+%\multirow{6}{*}{Durante il trattamento, dopo aver fatto clic sul pulsante sulla maniglia, appare un suono "cigolante"} & Controllare se la testa del trattamento laser è danneggiata e sostituirla dopo il danno \\
+%\hline
+% & Il dispositivo non è in uso da molto tempo ed è difficile da innescare \\
+%\hline
+% & La temperatura interna è troppo bassa per aumentare la temperatura interna \\
+%\hline
+% & Controllare il circuito per guasti \\
+%\hline
+% & La stanza è troppo umida, riducendo l'umidità interna \\
+%\hline
+% & Lampada al krypton o allo xeno danneggiata, lampada \\
+%\hline
+%Temperatura del sistema di refrigerazione troppo elevata & Spegni il sistema e lascialo raffreddare per un po '. Se si verifica ancora un errore dopo il riavvio, contattare il rivenditore \\
+%\hline
+%\multirow{2}{*}{Maniglia a bassa energia} & Controllare la superficie del riflettore per impurità, pulire se necessario \\
+%\hline
+% & Se la maniglia di manipolazione è troppo calda, spegnerla per mezz'ora prima dell'uso \\
+%\hline
+%\end{tabular}
+%\end{center}
+
+%\begingroup
+%\renewcommand{\arraystretch}{1.2}
+\begin{tabularx}{\textwidth}{|X|X|}
+	\hline
+	\textbf{Problema} & \textbf{Trattamento} \\
+	\hline
+	& La testa del trattamento è surriscaldata: chiudere e raffreddare per mezz'ora dopo l'uso. \\
+	\hline
+	& Controllare la maniglia o la testa di lavorazione per eventuali perdite. \\
+	\hline
+	\multicolumn{2}{|l|}{\textbf{Durante il trattamento, dopo aver cliccato sul pulsante sulla maniglia, appare un suono "cigolante"}} \\
+	\multicolumn{2}{|c|}{} \\
+	\hline
+	& Controllare se la testa del trattamento laser è danneggiata e sostituirla. \\
+	\hline
+	& Il dispositivo non è in uso da molto tempo ed è difficile da innescare. \\
+	\hline
+	& La temperatura interna è troppo bassa: aumentare la temperatura interna. \\
+	\hline
+	& Controllare il circuito per guasti. \\
+	\hline
+	& La stanza è troppo umida: ridurre l'umidità interna. \\
+	\hline
+	& Lampada al krypton o allo xeno danneggiata. \\
+	\hline
+	\textbf{Temperatura del sistema di refrigerazione troppo elevata} & Spegnere il sistema e lasciarlo raffreddare. Se l'errore persiste al riavvio, contattare il rivenditore. \\
+	\hline
+	\multicolumn{2}{|l|}{\textbf{Maniglia a bassa energia}} \\
+	\hline
+	& Controllare la superficie del riflettore per impurità, pulire se necessario. \\
+	\hline
+	& Se la maniglia è troppo calda, spegnerla per mezz'ora prima dell'uso. \\
+	\hline
+\end{tabularx}
+%\endgroup
 
 \section{Capitolo 6 Specifiche}
 Questo capitolo descrive i parametri di sistema più importanti e le categorie di sistema per i sistemi di trattamento.
@@ -1368,7 +1370,7 @@ L'apparecchiatura è composta da:
   \item Nelle due immagini seguenti viene riportato in modo schematico il circuito a blocchi dell'apparecchiatura
 \end{itemize}
 
-\begin{figure}[h]
+\begin{figure}[H]
 \begin{center}
 \captionsetup{labelformat=empty}
 \caption{Figura 2.2.1}
@@ -1376,7 +1378,7 @@ L'apparecchiatura è composta da:
 \end{center}
 \end{figure}
 
-\begin{figure}[h]
+\begin{figure}[H]
 \begin{center}
 \captionsetup{labelformat=empty}
 \caption{Figure 2.2.2 schema a blocchi del sistema di diodo Laser System}
@@ -1585,7 +1587,7 @@ Far compilare il consenso informato, in caso di dubbi sul trattamento o di patol
   \item Posizionare la testina emettitore del manipolo sulla zona da trattare premendo leggermente in modo da rendere praticamente ermetica la zona sottostante l'emettitore.
 \end{itemize}
 
-\begin{figure}[h]
+\begin{figure}[H]
 \begin{center}
   \includegraphics[alt={},max width=\textwidth]{0673f156-6613-4c24-ad16-c1dd5450a875-64_531_1429_1779_246}
 \captionsetup{labelformat=empty}
