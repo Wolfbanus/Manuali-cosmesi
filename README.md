@@ -1,6 +1,6 @@
 TO DO:
 
-- [ ] BEAUTY BRIDGE+
+- [x] BEAUTY BRIDGE+
 	- [x] consenso informato
  	- [x] mettere elenchi puntati
   	- [x] aggiornare dimensione conformità
@@ -10,13 +10,13 @@ TO DO:
 - [ ] CELLUFREEZE+ (non ho il manuale pdf)
  	- [x] consenso informato
 
-- [ ] COPERTA SAUNA INFRAROSSI
+- [x] COPERTA SAUNA INFRAROSSI
 	- [x] consenso informato (Ale)
  	- [x] spostare sezione simboli
   	- [x] aggiornare dimensione conformità
   	- [x] controllare sezionamento
      
-- [ ] DRENALINPHA+
+- [x] DRENALINPHA+
 	- [x] simboli sicurezza
 	- [x] foto prima pagina (Ale)
 	- [x] aggiornare consenso informato
@@ -25,7 +25,8 @@ TO DO:
 
 - [ ] ELETTROPULSE+
 	- [x] foto prima pagina 
-	- [ ] controllare se foto prima pagina va bene (Ale)
+	- [x] controllare se foto prima pagina va bene (Ale)
+	- [ ] sostituire immagine prima pagina
 	- [x] toc
 	- [x] tabelle eccedenti bordo destro
 	- [x] togliere sezioni ripetute ELECTROPORAL
@@ -37,7 +38,11 @@ TO DO:
     - [x] aggiornare dimensione conformità
 
 - [ ] EPIL FORCE+
-	- [ ] sentire ale se l'ha già fatto
+	- [x] sentire ale se l'ha già fatto
+	- [ ] \begin{figure}[H]
+	- [ ] \begin{table}[H]
+	- [ ] controllare sezionamento
+
 
 - [ ] HYDRA DERMO COMPLEX+
 	- [x] \begin{figure}[H]
@@ -52,7 +57,8 @@ TO DO:
 	- [x] consenso informato
 	- [x]  pagina
  	- [x] aggiornare dimensione conformità
-  	- [ ] controllare sezionamento
+  	- [x] controllare sezionamento
+  	- [ ] controllare testo tabella (Ale)
  
 - [ ] ROLLERSHAPE+
 	- [x] foto prima pagina (Ale)
