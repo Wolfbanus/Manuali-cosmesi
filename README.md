@@ -70,14 +70,14 @@ TO DO:
   	- [ ] controllare testo tabella perché ha poco senso (Ale)
   	- [x] modificare titolo
  
-- [ ] ROLLERSHAPE+
+- [x] ROLLERSHAPE+
 	- [x] foto prima pagina (Ale)
 	- [x] consenso informato
  	- [x] impostato italiano
   	- [x] spostato simboli
   	- [x] aggiornare dimensione conformità
-  	- [ ] controllare sezionamento
-  	- [ ] rifare pagina display
+  	- [x] controllare sezionamento
+  	- [x] rifare pagina display
   	- [x] modificare titolo
 
 - [ ] SKIN ANALYZER+
