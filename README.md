@@ -25,7 +25,7 @@ TO DO:
 	- [x] aggiornare consenso informato
  	- [x] aggiornare dimensione conformità
   	- [x] controllare sezionamento
-    - [ ] modificare titolo
+    - [x] modificare titolo
 
 
 - [x] ELETTROPULSE+
