@@ -5,7 +5,7 @@ TO DO:
  	- [x] mettere elenchi puntati
   	- [x] aggiornare dimensione conformità
   	- [x] controllare sezionamento
-    - [ ] modificare titolo
+    - [x] modificare titolo
   	- [ ] esportare ultima pagina del pdf originale per sostituire jpg dichiarazione conformità in tutti i manuali
 
 - [ ] CELLUFREEZE+ (non ho il manuale pdf)
@@ -16,7 +16,7 @@ TO DO:
  	- [x] spostare sezione simboli
   	- [x] aggiornare dimensione conformità
   	- [x] controllare sezionamento
-    - [ ] modificare titolo
+    - [x] modificare titolo
 
 
 - [x] DRENALINPHA+
