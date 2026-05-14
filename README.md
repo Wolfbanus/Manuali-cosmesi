@@ -5,6 +5,7 @@ TO DO:
  	- [x] mettere elenchi puntati
   	- [x] aggiornare dimensione conformità
   	- [x] controllare sezionamento
+    - [ ] modificare titolo
   	- [ ] esportare ultima pagina del pdf originale per sostituire jpg dichiarazione conformità in tutti i manuali
 
 - [ ] CELLUFREEZE+ (non ho il manuale pdf)
@@ -15,13 +16,17 @@ TO DO:
  	- [x] spostare sezione simboli
   	- [x] aggiornare dimensione conformità
   	- [x] controllare sezionamento
-     
+    - [ ] modificare titolo
+
+
 - [x] DRENALINPHA+
 	- [x] simboli sicurezza
 	- [x] foto prima pagina (Ale)
 	- [x] aggiornare consenso informato
  	- [x] aggiornare dimensione conformità
   	- [x] controllare sezionamento
+    - [ ] modificare titolo
+
 
 - [x] ELETTROPULSE+
 	- [x] foto prima pagina 
@@ -36,12 +41,14 @@ TO DO:
 	- [x] attestato conformità
 	- [x] simboli sicurezza
     - [x] aggiornare dimensione conformità
+    - [x] modificare titolo
 
 - [ ] EPIL FORCE+
 	- [x] sentire ale se l'ha già fatto
 	- [ ] \begin{figure}[H]
 	- [ ] \begin{table}[H]
 	- [ ] controllare sezionamento
+    - [ ] modificare titolo
 
 
 - [ ] HYDRA DERMO COMPLEX+
@@ -52,6 +59,8 @@ TO DO:
 	- [ ] mettere a posto tabelle e figure
  	- [ ] controllare sezionamento
   	- [x] aggiornare dimensione conformità
+    - [ ] modificare titolo
+
 
 - [ ] RF-USION+
 	- [x] consenso informato
@@ -59,6 +68,7 @@ TO DO:
  	- [x] aggiornare dimensione conformità
   	- [x] controllare sezionamento
   	- [ ] controllare testo tabella perché ha poco senso (Ale)
+  	- [x] modificare titolo
  
 - [ ] ROLLERSHAPE+
 	- [x] foto prima pagina (Ale)
@@ -68,10 +78,13 @@ TO DO:
   	- [x] aggiornare dimensione conformità
   	- [ ] controllare sezionamento
   	- [ ] rifare pagina display
+  	- [x] modificare titolo
 
 - [ ] SKIN ANALYZER+
 	- [ ] consenso informato (Ale)
 	- [ ] mettere a posto immagini e tabelle
 	- [ ] controllare sezionamento
  	- [x] aggiornare dimensione conformità
+    - [ ] modificare titolo
+
 
